@@ -1,0 +1,11 @@
+{
+    "flights": [
+        {
+            "name": "Lufthansa 6E 2557",
+            "origin": "London",
+            "destination": "Berlin",
+            "id": 1,
+            "price": 200
+        }
+    ]
+}
